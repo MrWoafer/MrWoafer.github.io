@@ -4,7 +4,7 @@ Experience programming games and software in C#, Python and the Unity game engin
 
 # Pixel Art Creator
 
-![gif](Images/Pixel-Art-Creator-1.png)
+![gif](Images/Pixel-Art-Creator-1.gif)
 
 # Saloon Switcheroo
 
