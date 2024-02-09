@@ -4,6 +4,6 @@ author:
   email: william.j.towler@gmail.com
 github_username: MrWoafer
 description: This is a test description.
-theme: minima
+remote_theme: jekyll/minima
 minima:
   { platform: linkedin,       user_url: "https://www.linkedin.com/in/william-towler-8a37b42b3/" }
