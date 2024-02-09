@@ -3,7 +3,10 @@ author:
   name: William Towler
   email: william.j.towler@gmail.com
 description: This is a test description.
-header_pages:
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
 remote_theme: jekyll/minima
 minima:
   social_links:
