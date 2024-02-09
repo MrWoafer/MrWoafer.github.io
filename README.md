@@ -10,6 +10,10 @@ A program for making pixel art, including layers, animation and tilesets.
 
 ![Pixel Art Creator - Showcase 2(1)](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/094cfb28-e1ac-40bd-9073-608957c248e4)
 
+![Pixel Art Creator - Showcase 3(1)](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/53c3b9f6-e0ba-4590-a4ff-a64d7917f2ea)
+
+![Pixel Art Creator - Showcase 4](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/3dbc0d5a-5995-45fb-9809-de29eabff11c)
+
 # Saloon Switcheroo
 
 _C#, Unity_
