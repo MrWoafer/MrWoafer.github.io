@@ -34,6 +34,8 @@ _C#, Unity_
 
 A program to help practice sheet music sight-singing through simple games. Includes a small custom music theory library. Also renders sheet music.
 
+![Sight-Singing Practice 09_02_2024 20_30_42](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/bdccdfdf-e2d4-4fd2-9e6a-bb0cb52df224)
+
 # [Code Cracker](https://github.com/MrWoafer/Code-Cracker)
 
 _GUI written in Python with tkinter; cipher crackers written in C#, and a few in C++_
