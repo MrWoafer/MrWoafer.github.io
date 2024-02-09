@@ -32,7 +32,7 @@ A 2-player local versus game made in 48 hours for the 2020 GMTK Game Jam.
 
 _C#, Unity_
 
-A program to help practise sheet music sight-singing through simple games. Includes a small custom music theory library. Also renders sheet music.
+A program to help practise sheet music sight-singing through simple games. Includes a small custom music theory library.
 
 ![Sight-Singing Practice 09_02_2024 20_40_06](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/bc4b0090-20f0-4871-ac0e-1bb28748ce09)
 
