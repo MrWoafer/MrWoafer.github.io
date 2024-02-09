@@ -2,7 +2,9 @@
 
 Programming games and software in C#, Python and the Unity game engine.
 
-# Pixel Art Creator
+Project titles include links to repositories.
+
+# [Pixel Art Creator](https://github.com/MrWoafer/Pixel-Art-Creator-2.0)
 
 _C#, Unity_
 
@@ -14,7 +16,7 @@ A program for making pixel art, including layers, animation and tilesets.
 
 ![Pixel Art Creator - Showcase 5](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/1f36e8cf-03b7-42b1-ab4b-a69b5a489d43)
 
-# Saloon Switcheroo
+# [Saloon Switcheroo](https://github.com/MrWoafer/Saloon-Switcheroo)
 
 _C#, Unity_
 
@@ -26,13 +28,13 @@ A 2-player local versus game made in 48 hours for the 2020 GMTK Game Jam.
 
 ![screenshot](Images/Saloon-Switcheroo-3.png)
 
-# Sight Singing Practice
+# [Sight Singing Practice](https://github.com/MrWoafer/Sight-Singing-Practice)
 
 _C#, Unity_
 
 A program to help practice sheet music sight-singing through simple games. Includes a small custom music theory library. Also renders sheet music.
 
-# Code Cracker
+# [Code Cracker](https://github.com/MrWoafer/Code-Cracker)
 
 _GUI written in Python with tkinter; cipher crackers written in C#, and a few in C++_
 
