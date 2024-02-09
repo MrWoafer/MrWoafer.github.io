@@ -4,7 +4,7 @@ author:
   email: william.j.towler@gmail.com
 github_username: MrWoafer
 description: This is a test description.
-header:
+header_pages:
 remote_theme: jekyll/minima
 minima:
   social_links:
