@@ -1,5 +1,3 @@
-### William Towler - Test
-
 Programming games and software in C#, Python and the Unity game engine.
 
 Project titles include links to repositories.
