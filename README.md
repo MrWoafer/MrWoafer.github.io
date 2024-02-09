@@ -4,8 +4,7 @@ Experience programming games and software in C#, Python and the Unity game engin
 
 # Pixel Art Creator
 
-![gif](Images/Pixel-Art-Creator-2.gif)
-![Pixel Art Creator - Showcase 2](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/d9aabb7f-ef8c-459f-bb58-0d902e9a67d6)
+![Pixel Art Creator - Showcase 2(1)](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/094cfb28-e1ac-40bd-9073-608957c248e4)
 
 # Saloon Switcheroo
 
