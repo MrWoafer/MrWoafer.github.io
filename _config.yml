@@ -1,5 +1,7 @@
 title: William Towler - Portfolio
-email: william.j.towler@gmail.com
+author:
+  name: William Towler
+  email: william.j.towler@gmail.com
 github_username: MrWoafer
 description: This is a test description.
 theme: minima
