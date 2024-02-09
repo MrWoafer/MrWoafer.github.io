@@ -41,3 +41,9 @@ A program to help practise sheet music sight-singing through simple games. Inclu
 _GUI written in Python with tkinter; cipher crackers written in C#, and a few in C++_
 
 A tool for automated solving of messages encrypted with classical ciphers. It primarily uses the approach of Simulated Annealing. Also includes statistical tests to help identify ciphers and can suggest possible cipher types for you.
+
+![William's Super Awesome Code Cracker 09_02_2024 21_15_23](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/82fab22d-bd9e-4f52-8993-befd49484bb1)
+
+![Capture 21](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/64218bc1-23b7-4714-a0e4-8e1457c70810)
+
+![Capture 22](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/3a2b946b-2891-4254-bf36-be96483840a0)
