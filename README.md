@@ -6,7 +6,7 @@ Programming games and software in C#, Python and the Unity game engine.
 
 _C#, Unity_
 
-A program for making pixel art, including layers, animation and tilesets. Written in 
+A program for making pixel art, including layers, animation and tilesets.
 
 ![Pixel Art Creator - Showcase 2(1)](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/094cfb28-e1ac-40bd-9073-608957c248e4)
 
