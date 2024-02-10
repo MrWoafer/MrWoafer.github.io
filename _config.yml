@@ -7,6 +7,7 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
+show_subscribe: false
 remote_theme: jekyll/minima
 minima:
   social_links:
