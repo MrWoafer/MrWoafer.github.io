@@ -30,6 +30,8 @@ Using tilesets:
 
 # [Saloon Switcheroo](https://github.com/MrWoafer/Saloon-Switcheroo)
 
+[itch.io page](https://woafer.itch.io/saloon-switcheroo)
+
 _C#, Unity_
 
 A 2-player local versus game made in 48 hours for the 2020 GMTK Game Jam.
