@@ -1,3 +1,3 @@
-# [Portfolio](/portfolio)
+[Portfolio](/portfolio)
 
-# [About](/about)
+[About](/about)
