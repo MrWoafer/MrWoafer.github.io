@@ -12,4 +12,6 @@ I am proficient in C# and Python and have a wealth of experience in personal pro
 
 As well as programming, I enjoy singing in my university a cappella group, in which I hold the post of secretary. I am currently also serving as producer and audio editor for our upcoming music video. I have a [YouTube channel](https://www.youtube.com/@Williams_A_Cappella) for my own one-man a cappella covers that I arrange, record, edit and mix myself. Furthermore, I am self-taught in guitar and ukulele.
 
-![William - Feb 2024 - Wave](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/8ff703f9-9c17-44f8-b0b5-1a5c80a263e2)
+<p align="center">
+  <img src="https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/8ff703f9-9c17-44f8-b0b5-1a5c80a263e2" />
+</p>
