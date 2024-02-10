@@ -62,7 +62,7 @@ _Karate:_
 
 ![Pixelympics - Showcase 4](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/8849bb93-ffdf-41fc-952e-5046f7b6c5fe)
 
-_100m freestyle:_
+_100m Freestyle:_
 
 ![Pixelympics - Showcase 3](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/83875777-8677-48fb-bd48-5e83b0523119)
 
@@ -70,7 +70,7 @@ _Hammer:_
 
 ![Pixelympics - Showcase 2](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/4be21719-aea8-49d6-a389-5ddd60b6d5b0)
 
-_Ski jump:_
+_Ski Jump:_
 
 ![Pixelympics - Showcase 1](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/ccda6d47-8578-46bd-adb0-3253e720f9a8)
 
