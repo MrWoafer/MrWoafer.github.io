@@ -56,7 +56,7 @@ _A randomly-generated melody to practise sight-singing:_
 
 **C#, Unity**
 
-A game comprised of 15+ Olympics minigames.
+A local multiplayer (plus CPU opponents) game comprised of 20+ Olympics minigames.
 
 _Karate:_
 
