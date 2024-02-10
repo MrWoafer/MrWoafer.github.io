@@ -4,7 +4,7 @@ author:
   email: william.j.towler@gmail.com
 description: This is a test description.
 titles_from_headings:
-  enabled:     true
+  enabled:     false
   strip_title: true
   collections: true
 remote_theme: jekyll/minima
