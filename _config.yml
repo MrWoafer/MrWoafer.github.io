@@ -3,6 +3,8 @@ author:
   name: William Towler
   email: william.j.towler@gmail.com
 description: This is a test description.
+plugins:
+  - jekyll-titles-from-headings
 titles_from_headings:
   enabled:     false
   strip_title: true
