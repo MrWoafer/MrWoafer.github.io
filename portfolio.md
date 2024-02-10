@@ -12,7 +12,7 @@ Project titles include links to repositories.
 
 # [Pixel Art Creator](https://github.com/MrWoafer/Pixel-Art-Creator-2.0)
 
-_C#, Unity_
+**C#, Unity**
 
 A program for making pixel art, including layers, animation and tilesets.
 
@@ -32,7 +32,7 @@ _Using tilesets:_
 
 [itch.io page](https://woafer.itch.io/saloon-switcheroo)
 
-_C#, Unity_
+**C#, Unity**
 
 A 2-player local versus game made in 48 hours for the 2020 GMTK Game Jam.
 
@@ -44,7 +44,7 @@ A 2-player local versus game made in 48 hours for the 2020 GMTK Game Jam.
 
 # [Sight Singing Practice](https://github.com/MrWoafer/Sight-Singing-Practice)
 
-_C#, Unity_
+**C#, Unity**
 
 A program to help practise sheet music sight-singing through simple games. Includes a small custom music theory library.
 
@@ -54,7 +54,7 @@ _A randomly-generated melody to practise sight-singing:_
 
 # [Code Cracker](https://github.com/MrWoafer/Code-Cracker)
 
-_GUI written in Python with tkinter; cipher crackers written in C#, and a few in C++_
+**GUI written in Python with tkinter; cipher crackers written in C#, and a few in C++**
 
 A tool for automated solving of messages encrypted with classical ciphers. It primarily uses the approach of Simulated Annealing. Also includes statistical tests to help identify ciphers and can suggest possible cipher types for you.
 
