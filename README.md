@@ -1,5 +1,3 @@
----
-title: "Home"
----
+# [Portfolio](/portfolio)
 
-[Portfolio](/portfolio)
+# [About](/about)
