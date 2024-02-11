@@ -10,7 +10,7 @@ Programming games and software in C#, Python and the Unity game engine.
 
 Project titles include links to repositories.
 
-# [Pixel Art Creator](https://github.com/MrWoafer/Pixel-Art-Creator-2.0)
+# [Pixel Art Creator](https://github.com/MrWoafer/Pixel-Art-Creator-2.0) (2023-Present)
 
 **C#, Unity**
 
@@ -28,7 +28,17 @@ _Using tilesets:_
 
 ![Pixel Art Creator - Showcase 5](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/1f36e8cf-03b7-42b1-ab4b-a69b5a489d43)
 
-# [Saloon Switcheroo](https://github.com/MrWoafer/Saloon-Switcheroo)
+# [Sight Singing Practice](https://github.com/MrWoafer/Sight-Singing-Practice) (2022)
+
+**C#, Unity**
+
+A program to help practise sheet music sight-singing through simple games. Includes a small custom music theory library.
+
+_A randomly-generated melody to practise sight-singing:_
+
+![Sight-Singing Practice 09_02_2024 20_40_06](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/bc4b0090-20f0-4871-ac0e-1bb28748ce09)
+
+# [Saloon Switcheroo](https://github.com/MrWoafer/Saloon-Switcheroo) (2020)
 
 [itch.io page](https://woafer.itch.io/saloon-switcheroo)
 
@@ -42,17 +52,7 @@ A 2-player local versus game made in 48 hours for the 2020 GMTK Game Jam.
 
 ![screenshot](Images/Saloon-Switcheroo-3.png)
 
-# [Sight Singing Practice](https://github.com/MrWoafer/Sight-Singing-Practice)
-
-**C#, Unity**
-
-A program to help practise sheet music sight-singing through simple games. Includes a small custom music theory library.
-
-_A randomly-generated melody to practise sight-singing:_
-
-![Sight-Singing Practice 09_02_2024 20_40_06](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/bc4b0090-20f0-4871-ac0e-1bb28748ce09)
-
-# [Pixelympics](https://github.com/MrWoafer/Pixelympics)
+# [Pixelympics](https://github.com/MrWoafer/Pixelympics) (2019-2020)
 
 **C#, Unity**
 
@@ -74,7 +74,7 @@ _Ski Jump:_
 
 ![Pixelympics - Showcase 1](https://github.com/MrWoafer/MrWoafer.github.io/assets/159387325/ccda6d47-8578-46bd-adb0-3253e720f9a8)
 
-# [Code Cracker](https://github.com/MrWoafer/Code-Cracker)
+# [Code Cracker](https://github.com/MrWoafer/Code-Cracker) (2018-2019)
 
 **GUI written in Python with tkinter; cipher crackers written in C#, and a few in C++**
 
